@@ -1,0 +1,12 @@
+language: java
+
+jdk:
+  - oraclejdk7
+
+branches:
+  only:
+  - master
+
+notifications:
+  email:
+  - dalifreire@gmail.com
